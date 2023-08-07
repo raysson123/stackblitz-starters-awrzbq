@@ -1,0 +1,17 @@
+// .stackblitz/codeflow.json
+
+{
+    "bot": {
+        "issues": {
+            "enabled": false
+        },
+        "pullRequests": {
+            "enabled": false
+        }
+    },
+    "pnpm": {
+        "overrides": {
+            "vite": "./packages/vite"
+        }
+    }
+}
